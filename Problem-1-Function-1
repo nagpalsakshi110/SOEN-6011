@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Problem-1-Function-1}
+\author{Sakshi Nagpal- 40056535 }
+\date{July 2019}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+Arcos(x) is generally define as the inverse of the trigonometry  Cosine function. The arc- prefix depicts the inverse part of the function. The general all the trigonometric  functions when measured in radians is of (\theta) radian. However the inverse function lies under the radian of  (r\theta). 
+
+\section{Characteristics of Arcos(x):}
+
+\center If x=cos y
+
+ \linebreak 
+\begin{flushleft} 
+ Then the inverse function is written as :\linebreak 
+ \end{flushleft}
+                \center y= cos x^{-1}  
+  \begin{flushleft}  
+  Which can also be written as : arccos x = cos x^{-1}  = y. 
+  \linebreak 
+   
+   Also mentioned above the Radian of the inverse function is ( r\theta}). Where r is the radius of circle.
+   \end{flushleft}
+  \section{Domain and Range Of Inverse Function:}
+   The mapping in case of Arccos function  is many-to-one. Due to one to many mapping the nverse function would not  satisfy any one range. In order to get the inverse function another function is introduces. We use both Arccos and arcoss function. Here the Arccos function is defned as set of all angles. Where as the arccos function defines in the range of 0 to  \pi
+ 
+\section{ References:}
+\begin{enumerate}
+    
+    \item https://www.analyzemath.com/Graphing/graphing_arccosine.html \linebreak
+    2.  https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
+\end{enumerate}
+\end{document}
