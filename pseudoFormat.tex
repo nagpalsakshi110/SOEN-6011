@@ -1,0 +1,26 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage{comment} % enables the use of multi-line comments (\ifx \fi) 
+\usepackage{fullpage} % changes the margin
+\usepackage{hyperref}
+\usepackage{amsmath}
+
+\usepackage{booktabs} % For formal tables
+
+\usepackage[ruled]{algorithm2e} % For algorithms
+\renewcommand{\algorithmcfname}{ALGORITHM}
+
+\begin{document}
+%Header-Make sure you update this information!!!!
+\noindent
+\large\textbf{PROBLEM 3--PSEUDOCODE FORMAT}
+\par\noindent\rule{\textwidth}{0.4pt}
+Algorithm A.1(corresponding to the function number) The XXX function.
+\par\noindent\rule{\textwidth}{0.2pt}
+Adding-Function(a,b)\\
+\indent \bfseries{in:}  \mdseries integer a(a$>$0); integer b(b$\geq$0) \\
+\indent \bfseries{out:}  \mdseries W an integer number with the sum of a and b \\
+\indent 1: W $\leftarrow$ initially define \\
+\indent 2: W $\leftarrow$ a+b \\
+\indent 3: return W 
+\par\noindent\rule{\textwidth}{0.2pt}
+\end{document}
